@@ -28,6 +28,6 @@ function makeInt(n, b) {
 }
 
 function makeInt(n, b) {
-  var parsed = parseInt(n, 10)
-  return pared *n
+  var parsed = parseInt(n, b)
+  return pared *n, 10
 }
