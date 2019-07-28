@@ -30,3 +30,7 @@ function makeInt(n, b) {
 function makeInt(n) {
   return parseInt(n, 10)
 }
+
+function NaN(n) {
+  return makeInt(NaN)
+}
