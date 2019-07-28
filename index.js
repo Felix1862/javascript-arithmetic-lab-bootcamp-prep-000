@@ -22,6 +22,6 @@ function dec(a, n) {
   return a - 1
 }
 
-function makeInt(a.a, b) {
+function makeInt(a., n) {
   
 }
