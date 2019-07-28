@@ -22,6 +22,7 @@ function dec(a, n) {
   return a - 1
 }
 
-function makeInt(n) {
-  return n
+function makeInt(n, b) {
+  var parsed = parseInt(n, b)
+  return parsed *n
 }
