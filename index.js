@@ -21,5 +21,3 @@ function increment(a, n) {
 function decrement(a, n) {
   return a - 1
 }
-
-function makeInt()
