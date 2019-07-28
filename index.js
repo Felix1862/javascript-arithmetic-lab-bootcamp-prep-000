@@ -31,6 +31,6 @@ function makeInt(n) {
   return parseInt(n, 10)
 }
 
-function NaN(n) {
-  return makeInt(NaN)
+function preserveDecimal(n) {
+  return 
 }
