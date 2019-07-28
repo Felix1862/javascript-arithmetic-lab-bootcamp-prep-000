@@ -21,3 +21,5 @@ function inc(a, n) {
 function dec(a, n) {
   return a - 1
 }
+
+function makeInt(a.a )
