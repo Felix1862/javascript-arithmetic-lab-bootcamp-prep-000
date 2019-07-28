@@ -27,7 +27,4 @@ function makeInt(n, b) {
   return parsed *n
 }
 
-function makeInt(n, b) {
-  var parsed = parseInt(n, b)
-  return pared *n, 10
-}
+function makeInt(n, b) 
