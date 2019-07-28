@@ -22,7 +22,10 @@ function dec(a, n) {
   return a - 1
 }
 
-function makeInt(n, a) {
-  return makeIntn (a)
+function makeInt(n) {
+  return `makeInt parses n`
+  function makeInt(parsed n) {
+    return n
+  }
 }
 
